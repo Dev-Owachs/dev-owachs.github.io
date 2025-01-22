@@ -1,10 +1,10 @@
 ---
 layout: travel-blog
-title: World tour
+title: Weltreise
 permalink: /world-tour/
 post_category: world-tour
 init_bounds: "[[-5, -40], [55, 31]]"
-lang: en
+lang: de
 ---
 
-General description of this journey - goes below all the posts, so probably not the most relevant.
+Die Beschreibung dieser Reise erscheint unter allen Posts - diese sind schliesslich die Hauptsache an einem Reiseblog.

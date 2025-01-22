@@ -3,8 +3,8 @@ title: jekyll-travel-blog Live Preview
 author: Simon Greuter
 github_username: greuters
 contact_form_action: https://formspree.io/f/xlddoyye
-languages: ["en", "de"]
-baseurl: /jekyll-travel-blog
+languages: ["de"]
+default_lang: "de"
 
 navigation_urls:
   - /world-tour/

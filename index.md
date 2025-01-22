@@ -2,19 +2,10 @@
 layout: home
 title: Home
 permalink: /
-lang: en
-image_metadata:
-  - dirname:
-    images:
-      - {filename: "cold-welcome.jpg", caption: "", alt: ""}
+lang: de
 ---
 
-{% include image-divider.html ids="cold-welcome.jpg" %}
+Willkommen!
 
-Welcome!
-
-This is your home page. The most recent posts from all your blogs will be shown
-below.
-
-Try changing the site language on the top right, you'll see other versions
-are fully autonomous.
+Das ist deine Homepage. Die aktuellsten Beiträge all deiner Blogs werden hier
+angezeigt.
