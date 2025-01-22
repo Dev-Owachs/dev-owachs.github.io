@@ -1,31 +1,25 @@
 ## Example configuration - your general config goes here
-title: jekyll-travel-blog Live Preview
+title: Owachs
 author: Simon Greuter
-github_username: greuters
-contact_form_action: https://formspree.io/f/xlddoyye
+contact_form_action: https://formspree.io/f/mgvowqjp
 languages: ["de"]
 default_lang: "de"
 
 navigation_urls:
-  - /world-tour/
+  - /blog/
   - /contact/
 
 exclude:
-  - README.md
   - LICENSE.txt
   - package.json
   - package-lock.json
   - webpack
-  - original_icons
   - init_blog.sh
-  - convert_tracks.py
-  - screenshot.png
 
 ## Default configuration - only adapt below if you know what you are doing
 
 # stop jekyll from deleting following directories, used by other build tools
 keep_files:
-  - "assets/tracks"
   - "assets/generated"
 
 excerpt_separator: ""

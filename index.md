@@ -5,7 +5,7 @@ permalink: /
 lang: de
 ---
 
-Willkommen!
+Willkommen in Owachs!
 
-Das ist deine Homepage. Die aktuellsten Beiträge all deiner Blogs werden hier
-angezeigt.
+Aktuell gibts hier noch nicht viel zu sehen, aber bald kommt neues Leben auf
+den Hof ;)
