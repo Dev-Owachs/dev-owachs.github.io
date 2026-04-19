@@ -2,7 +2,7 @@ lang_name: Deutsch
 # TODO: l10n of month names and use following format
 # date_format: "%-d. %B %Y"
 date_format: "%-d.%-m.%Y"
-recent_posts: Aktuelle Beiträge
+recent_posts: Aktuelle Blogbeiträge
 read_full_post: Den ganzen Beitrag lesen..
 rss_subscribe: '<a href="$url">per RSS abonnieren</a>'
 no_translation: Tut mir leid, diese Seite ist auf Deutsch nicht verfügbar.

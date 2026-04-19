@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{% comment %}
+  Simple blog layout for the overview, showing posts of a single category
+  - the content of the overview page using this layout is shown at the top of the page
+  - main content is a list of your posts
+
+  Requirements for overview page:
+  - layout: tour-blog
+  - variable 'post_category' with the category of posts that should be listed
+{% endcomment %}
+
+{%- if page.post_category == null -%}
+  {{ 'Variable post_category is missing!' | raise_error }}
+{%- endif -%}
+
+<article>
+  <h1>
+    {{- site.data[site.active_lang].l10n.title | escape -}}
+  </h1>
+
+  {{ content }}
+</article>
+
+
+<ul id="post-list" class="post-list">
+  {%- for post in site.categories[page.post_category] -%}
+    <li>
+      {%- include post-preview.html post=post -%}
+    </li>
+  {%- endfor -%}
+</ul>

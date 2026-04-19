@@ -3,9 +3,29 @@ layout: home
 title: Home
 permalink: /
 lang: de
+hidden_categories: portraits
+image_metadata:
+  - dirname:
+    images:
+      - {filename: sunrise-garten.jpg, alt: }
+      - {filename: hof-schnee.jpg, alt: }
+      - {filename: kühe_see.jpg, alt: }
+      - {filename: thea-kinder-garten.jpg, alt: }
+      - {filename: garten.jpg, alt: }
+      - {filename: phillip-traktor.jpg, alt: }
+  - dirname: gallery
+    images:
+      - {filename: thea-kinder-garten.jpg, alt: }
+      - {filename: garten.jpg, alt: }
+      - {filename: phillip-traktor.jpg, alt: }
+      - {filename: holzspalten.jpg, alt: }
+      - {filename: sunset-nebel.jpg, alt: }
 ---
 
-Willkommen in Owachs!
+{% include image-divider.html ids="sunrise-garten.jpg, hof-schnee.jpg, kühe_see.jpg" %}
 
-Aktuell gibts hier noch nicht viel zu sehen, aber bald kommt neues Leben auf
-den Hof ;)
+# Willkommen im Owachs!
+
+Auf unserem schmucken Hof mit Sicht auf den Pfäffikersee laufen bereits erste Projekte und gleichzeitig gibt es noch viel braches Potenzial das auf neue Ideen wartet.
+
+8.2 Hektar Land mit Rebhang, Garten, Grünland, Wald und vielfältiger Infrastruktur bieten den Raum, gemeinschaftlich ein lebendiges Zuhause und Arbeitsumfeld zu gestalten.

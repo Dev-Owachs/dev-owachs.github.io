@@ -13,9 +13,16 @@ layout: default
   <article>
     <h2>{{ site.data.l10n.recent_posts }}</h2>
 
-    {% comment %} List the most recent post of each category, as well as any uncategorized ones {% endcomment %}
+    {% comment %} List the most recent posts of each category, as well as any uncategorized ones {% endcomment %}
     <ul class="post-list">
       {% assign listed_categories = site.emptyArray %}
+
+      {%- if page.hidden_categories != null -%}
+        {%- for category in page.hidden_categories -%}
+          {% assign listed_categories = listed_categories | push: category %}
+        {%- endfor -%}
+      {%- endif -%}
+
       {%- for post in site.posts -%}
         {% if post.categories == empty %}
           {% assign select_post = true %}
