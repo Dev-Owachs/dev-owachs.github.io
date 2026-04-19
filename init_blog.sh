@@ -34,8 +34,6 @@ title:
 preview_image_id: 
 preview_text: |
   
-track_number: 
-spread_direction: ""
 image_metadata:
 $toplevel_files
 $subdir_files
