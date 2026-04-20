@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: blog
 title: Home
 permalink: /
+post_category: blog
 lang: de
-hidden_categories: portraits
 image_metadata:
   - dirname:
     images:

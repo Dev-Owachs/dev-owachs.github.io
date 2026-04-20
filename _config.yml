@@ -6,7 +6,6 @@ languages: ["de"]
 default_lang: "de"
 
 navigation_urls:
-  - /blog/
   - /about/
   - /contact/
 
