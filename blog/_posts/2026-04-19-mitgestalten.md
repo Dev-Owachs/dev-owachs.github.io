@@ -19,16 +19,6 @@ image_metadata:
 
 ---
 
-{%- comment -%}
-<div class="flow-root">
-  {% include image.liquid id="image.jpg" class="float-inline-start"%}
-
-  Text
-</div>
-{% include image-divider.html ids="image.jpg" %}
-{% include inline-gallery.html collection="gallery" %}
-{%- endcomment -%}
-
 Für unseren Hof im Owachs oberhalb des Pfäffikersees suchen wir Menschen, die mit uns Leben, wirken und die Zukunft gestalten möchten. Ein paar Projekte sind bereits im Gange, es gibt aber auch noch viel braches Potential, das auf deine Idee und Umsetzung wartet: Weide und Ackerland, Wohnraum, ein grosser Stall..
 
 Da wir selbst noch nicht genau wissen, wohin sich alles entwickeln wird, beschreiben wir hier einfach uns, den Hof und was wir bis jetzt geplant haben. Falls du für dich in dem ganzen Gefüge eine Rolle siehst, dann schreibe uns.
@@ -57,7 +47,7 @@ Wir wohnen alle autonom, haben aber viel miteinander zu tun. Mehr zu den aktuell
 # Wen suchen wir?
 
 Wir sehen Potential zur Mitarbeit in der Landwirtschaft (Reben, Schafe, Gemüse, etc…) oder zur Realisierung eines eigenen Projekts, und Raum für weitere Bewohner*innen der Hofgemeinschaft.
-  Unser Motiv ist, den Hof durch weitere interessante, zu uns passende Menschen zu stärken.
+Unser Ziel ist es, den Hof durch weitere interessante, zu uns passende Menschen zu stärken.
 
 Wer hier wohnen möchte muss Miete zahlen damit das Projekt finanziell aufgeht, darum wäre es gut, wenn du ein wirtschaftliches Standbein hast. Theoretisch kann man auch von der Landwirtschaft leben, um nicht zu grosse existenzielle Abhängigkeiten zu schaffen muss deine Idee in diesem Fall aber mit belastbaren Zahlen untermauert sein. Dafür bietet der Owachs sehr viele Möglichkeiten, sich einzubringen und eigene Ideen zu realisieren.
 
