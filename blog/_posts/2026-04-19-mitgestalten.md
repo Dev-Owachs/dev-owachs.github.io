@@ -25,7 +25,7 @@ Da wir selbst noch nicht genau wissen, wohin sich alles entwickeln wird, beschre
 
 # Wer sind wir?
 Im Haupthaus leben wir zu siebt, zwei Familien mit drei Kindern:
-Matthias und Joy mit Arlyn und Vanya, sowie Rita und Simon mit Imara. Im Stöckli oben wohnen die Eltern von Matthias: Thea und Philipp.
+Joy und Matthias mit Arlyn und Vanya, sowie Rita und Simon mit Imara. Im Stöckli oben wohnen die Eltern von Matthias: Thea und Philipp.
 
 {% include image-divider.html ids="matthias-joy-gletscher.jpg, arlyn.jpg, vanya-imara.jpg, simon-rita.jpg, thea-phillip.jpeg" %}
 
