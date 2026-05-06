@@ -1,31 +1,15 @@
 ---
 layout: post
 lang: de
-title: Arlyn & Vanya
-preview_image_id: arlyn.jpg
+title: Arlyn, Vanya & Imara
+preview_image_id: mädelsbande.jpg
 preview_text: |
-  2019 & 2021
+  2019, 2021 & 2025
 image_metadata:
   - dirname:
     images:
-      - {filename: "arlyn.jpg", caption: "", alt: ""}
-      - {filename: "vanya-imara.jpg", caption: "Vanya mit Imara", alt: ""}
-
-
+      - {filename: "mädelsbande.jpg", caption: "", alt: ""}
 ---
-
-{%- comment -%}
-<div class="flow-root">
-  {% include image.liquid id="image.jpg" class="float-inline-start"%}
-
-  Text
-</div>
-{% include image-divider.html ids="image.jpg" %}
-{% include inline-gallery.html collection="gallery" %}
-{%- endcomment -%}
-
-{% include image.liquid id="vanya-imara.jpg" class="float-inline-start"%}
-
 
 # Arlyn
 
@@ -34,3 +18,6 @@ Bei jeglichen Kreativen Aktivitäten im Lead.
 
 # Vanya
 Wenn sie gerade nicht mit Arlyn oder FreundInnen aus dem Kindergarten spielen kann oder im Uno gegen Joy gewinnt - zieht Sie gern vom einen zum anderen Lieblingsmensch auf dem Hof, Hauptsache es läuft was und sie kann zuschauen oder mithelfen. 
+
+# Imara
+Ist die Jüngste von uns - eine echte Ureinwohnerin im Owachs. Meist zufrieden erkundend, ab und zu auch lautstark, eine Bereicherung für uns alle.

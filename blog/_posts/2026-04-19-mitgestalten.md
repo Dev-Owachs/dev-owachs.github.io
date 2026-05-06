@@ -13,7 +13,7 @@ image_metadata:
       - {filename: matthias-joy-gletscher.jpg, caption: "Matthias & Joy"}
       - {filename: arlyn.jpg, caption: "Arlyn"}
       - {filename: vanya-imara.jpg, caption: "Vanya & Imara"}
-      - {filename: thea-phillip.jpeg, caption: "Thea & Phillip"}
+      - {filename: thea-phillip.jpeg, caption: "Thea & Philipp"}
       - {filename: winter-see.jpg}
       - {filename: phillip-traktor.jpg}
 
