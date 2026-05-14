@@ -19,7 +19,7 @@ image_metadata:
 
 ---
 
-Für unseren Hof im Owachs oberhalb des Pfäffikersees suchen wir Menschen, die mit uns Leben, wirken und die Zukunft gestalten möchten. Ein paar Projekte sind bereits im Gange, es gibt aber auch noch viel braches Potential, das auf deine Idee und Umsetzung wartet: Weide und Ackerland, Wohnraum, ein grosser Stall..
+Für unseren Hof im Owachs oberhalb des Pfäffikersees suchen wir Menschen, die mit uns Leben, wirken und die Zukunft gestalten möchten. Ein paar Projekte sind bereits im Gange, es gibt zudem viel braches Potential, das auf deine Idee und Umsetzung wartet: Weide und Ackerland, Wohnraum, ein grosser Stall..
 
 Da wir selbst noch nicht genau wissen, wohin sich alles entwickeln wird, beschreiben wir hier einfach uns, den Hof und was wir bis jetzt geplant haben. Falls du für dich in dem ganzen Gefüge eine Rolle siehst, dann schreibe uns.
 
@@ -29,7 +29,7 @@ Joy und Matthias mit Arlyn und Vanya, sowie Rita und Simon mit Imara. Im Stöckl
 
 {% include image-divider.html ids="matthias-joy-gletscher.jpg, arlyn.jpg, vanya-imara.jpg, simon-rita.jpg, thea-phillip.jpeg" %}
 
-Wir wohnen alle autonom, haben aber viel miteinander zu tun. Mehr zu den aktuellen Bewohnern findest du [hier](/about)
+Mehr zu den aktuellen Bewohnern findest du [hier](/about)
 
 # Wer ist «der Owachs»?
 <div class="flow-root">
@@ -49,9 +49,9 @@ Wir wohnen alle autonom, haben aber viel miteinander zu tun. Mehr zu den aktuell
 Wir sehen Potential zur Mitarbeit in der Landwirtschaft (Reben, Schafe, Gemüse, etc…) oder zur Realisierung eines eigenen Projekts, und Raum für weitere Bewohner*innen der Hofgemeinschaft.
 Unser Ziel ist es, den Hof durch weitere interessante, zu uns passende Menschen zu stärken.
 
-Wer hier wohnen möchte muss Miete zahlen damit das Projekt finanziell aufgeht, darum wäre es gut, wenn du ein wirtschaftliches Standbein hast. Theoretisch kann man auch von der Landwirtschaft leben, um nicht zu grosse existenzielle Abhängigkeiten zu schaffen muss deine Idee in diesem Fall aber mit belastbaren Zahlen untermauert sein. Dafür bietet der Owachs sehr viele Möglichkeiten, sich einzubringen und eigene Ideen zu realisieren.
-
 Oder du wohnst in der Nähe, hast Interesse am Rebbau oder brauchst Flächen und Infrastruktur für ein Projekt, das gut auf den Hof passen würde? Matthias würde sich über Mitstreiter im Rebberg freuen, es stehen das ganze Grünland und die Obstbäume zur Disposition und ein riesiger Stall sowie viele landwirtschaftliche Gebäude möchten gebraucht werden. Wir haben bereits eine gut ausgebaute Schreinerei und einiges an handwerklicher Schlagkraft auf dem Hof.
+
+Zusammengefasst können wir uns alle drei Varianten vorstellen, Menschen die hier wohnen, Menschen die hier landwirtschaftlich tätig sind oder Menschen die hier wohnen und landwirtschaftlich tätig sind.
 
 
 # Sieht du für dich eine Rolle bei uns?
