@@ -41,7 +41,7 @@ Mehr zu den aktuellen Bewohnern findest du [hier](/about)
   Einen grossen Selbstversorger-Garten konnten wir bereits in Betrieb nehmen und reichlich Gemüse ernten. Zum Owachs gehören 8.2 ha Land, davon 1 ha Ried am Pfäffikersee, etwa 1.5ha Wald, der Rest ist Weideland wobei 2ha davon flach und ackerfähig wären. Der Hof ist am Südhang auf 650müM mit Blick in die Berge und über den Pfäffikersee wunderschön gelegen.
   <br>
   <br>
-  Im Herbst 2026 wird im Stöckli unten eine 80m2 grosse 3.5 Zimmer Wohnung frei (voraussichtlich 2000.-/Mt). Ende 2027 wird ausserdem eine 40m2 Einlegerwohnung frei (voraussichtlich 1500.-/Mt).
+  Im Herbst 2026 wird im Stöckli unten eine 80m2 grosse 3.5 Zimmer Wohnung frei (voraussichtlich 2000.-/Mt, Mindestbelegung 2 Personen). Ende 2027 wird ausserdem eine 40m2 Einlegerwohnung frei (voraussichtlich 1500.-/Mt).
 </div>
 
 # Wen suchen wir?
