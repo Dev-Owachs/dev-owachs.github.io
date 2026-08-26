@@ -12,7 +12,7 @@ image_metadata:
       - {filename: kühe_see.jpg, alt: }
       - {filename: thea-kinder-garten.jpg, alt: }
       - {filename: garten.jpg, alt: }
-      - {filename: phillip-traktor.jpg, alt: }
+      - {filename: sunset-landschaft.jpg, alt: }
   - dirname: gallery
     images:
       - {filename: thea-kinder-garten.jpg, alt: }
@@ -22,7 +22,7 @@ image_metadata:
       - {filename: sunset-nebel.jpg, alt: }
 ---
 
-{% include image-divider.html ids="sunrise-garten.jpg, hof-schnee.jpg, kühe_see.jpg" %}
+{% include image-divider.html ids="sunrise-garten.jpg, hof-schnee.jpg, sunset-landschaft.jpg" %}
 
 # Willkommen im Owachs!
 
